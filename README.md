@@ -4,12 +4,11 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Table of contents
 
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
 - [Author](#author)
-
 
 ### The challenge
 
@@ -23,8 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: [Four card feature section solution](https://franciellecarvalho.github.io/four-card-feature-section/)
 
 ### Built with
 
