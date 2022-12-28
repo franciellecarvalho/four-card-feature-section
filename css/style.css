@@ -159,6 +159,9 @@ footer {
     max-width: 37.5rem;
     margin: 0 auto;
   }
+  .feature h1{
+    font-size: 2rem;
+  }
   .box {
     max-width: 75rem;
     margin: 0 auto;
